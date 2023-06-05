@@ -1,5 +1,5 @@
 
-Para la realizacion de la tienda falsa, se estuvieron usando distintos dependencias, frameworks y hooks, que se 
+Para la realización de la tienda falsa, se estuvieron usando distintos dependencias, frameworks y hooks, que se 
 estaran listando a continuación junto a el link de su documentacion oficial.
 
 BULMA - Utilizado para crear la paginacion, es un framework de CSS:
@@ -15,3 +15,4 @@ Se instala en la carpeta donde se encuentre el proyecto, usando la siguiente lin
 
     npm i react-router-dom
 
+Dentro de los hooks utilizados estan useState, useParams y useEffect, todos se importan desde React.
